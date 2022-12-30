@@ -1,4 +1,4 @@
-# crdJ6Nfm
+# Password Generator
 
 Quick start:
 
